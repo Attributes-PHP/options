@@ -1,7 +1,7 @@
 # Attributes Options
 
 <p align="center">
-    <a href="https://codecov.io/gh/Attributes-PHP/options"><img alt="Code Coverage" src="https://codecov.io/gh/Attributes-PHP/options/graph/badge.svg?token=9W2JHIDQ2V"></a>
+    <a href="https://codecov.io/gh/Attributes-PHP/options"><img src="https://codecov.io/gh/Attributes-PHP/options/graph/badge.svg?token=J2kqNp5cho"/></a>
     <a href="https://packagist.org/packages/Attributes-PHP/options"><img alt="Latest Version" src="https://img.shields.io/packagist/v/Attributes-PHP/options"></a>
     <a href="https://packagist.org/packages/Attributes-PHP/options"><img alt="Software License" src="https://img.shields.io/badge/Licence-MIT-brightgreen"></a>
 </p>
