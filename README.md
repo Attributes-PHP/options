@@ -3,7 +3,7 @@
 <p align="center">
     <a href="https://codecov.io/gh/Attributes-PHP/options"><img src="https://codecov.io/gh/Attributes-PHP/options/graph/badge.svg?token=9W2JHIDQ2V"/></a>
     <a href="https://packagist.org/packages/Attributes-PHP/options"><img alt="Latest Version" src="https://img.shields.io/packagist/v/Attributes-PHP/options"></a>
-    <a href="https://packagist.org/packages/Attributes-PHP/options"><img alt="Software License" src="https://img.shields.io/packagist/l/Attributes-PHP/options"></a>
+    <a href="https://packagist.org/packages/Attributes-PHP/options"><img alt="Software License" src="https://img.shields.io/badge/Licence-MIT-brightgreen"></a>
 </p>
 
 **Attributes Options** is a collection of Attributes that can be used to enhance the [validation](https://github.com/Attributes-PHP/validation)
