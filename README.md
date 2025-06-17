@@ -35,7 +35,7 @@ use Attributes\Validation\Validator;
 use Attributes\Options\AliasGenerator;
 use Attributes\Options\Alias;
 use Attributes\Options\Ignore;
-use Attributes\Serializer\ReflectionSerializer;
+use Attributes\Serialization\Serializer;
 
 #[AliasGenerator('snake')]
 class Login
