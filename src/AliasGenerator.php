@@ -8,7 +8,7 @@ use Attribute;
 use Attributes\Options\Exceptions\InvalidOptionException;
 
 #[Attribute(Attribute::TARGET_CLASS)]
-class AliasGenerator
+final class AliasGenerator implements Option
 {
     private $aliasGenerator;
 

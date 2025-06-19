@@ -7,7 +7,7 @@ namespace Attributes\Options;
 use Attribute;
 
 #[Attribute(Attribute::TARGET_PROPERTY)]
-class Alias
+final class Alias implements Option
 {
     private string $alias;
 
