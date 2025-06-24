@@ -6,7 +6,7 @@ namespace Attributes\Options;
 
 use Attribute;
 
-#[Attribute(Attribute::TARGET_PROPERTY)]
+#[Attribute(Attribute::TARGET_PROPERTY | Attribute::TARGET_PARAMETER)]
 final class Ignore implements Option
 {
     private bool $ignoreValidation;

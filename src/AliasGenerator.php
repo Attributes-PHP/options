@@ -7,7 +7,7 @@ namespace Attributes\Options;
 use Attribute;
 use Attributes\Options\Exceptions\InvalidOptionException;
 
-#[Attribute(Attribute::TARGET_CLASS)]
+#[Attribute(Attribute::TARGET_CLASS | Attribute::TARGET_FUNCTION)]
 final class AliasGenerator implements Option
 {
     private $aliasGenerator;
